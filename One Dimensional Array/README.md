@@ -7,9 +7,10 @@
 * [Count Negetive Numbers](https://github.com/ranajoy-dutta/TechGig-Data-Structure/blob/master/One%20Dimensional%20Array/Count_Negetive_Numbers.py)
 * [Even Gets Bigger](https://github.com/ranajoy-dutta/TechGig-Data-Structure/blob/master/One%20Dimensional%20Array/Even_Gets_Bigger.py)
 * [Leader](https://github.com/ranajoy-dutta/TechGig-Data-Structure/blob/master/One%20Dimensional%20Array/Leader.py)
-* Second to Smaller and Larger
+* Second to Smaller and Larger 
 * Sequence of Integers
 * Find The Element That Appears Once
 * Second Largest
 * War Between Odd and Even
+*
 
