@@ -10,7 +10,7 @@
 * Second to Smaller and Larger 
 * Sequence of Integers
 * Find The Element That Appears Once
-* Second Largest
+* [Second Largest](https://github.com/ranajoy-dutta/TechGig-Data-Structure/blob/master/One%20Dimensional%20Array/Second_Largest.py)
 * War Between Odd and Even
 *
 
