@@ -8,9 +8,10 @@
 * [Even Gets Bigger](https://github.com/ranajoy-dutta/TechGig-Data-Structure/blob/master/One%20Dimensional%20Array/Even_Gets_Bigger.py)
 * [Leader](https://github.com/ranajoy-dutta/TechGig-Data-Structure/blob/master/One%20Dimensional%20Array/Leader.py)
 * [Second to Smaller and Larger](https://github.com/ranajoy-dutta/TechGig-Data-Structure/blob/master/One%20Dimensional%20Array/second_to_smaller_and_larger.py) 
+* [Calculate Range](https://github.com/ranajoy-dutta/TechGig-Data-Structure/blob/master/One%20Dimensional%20Array/Calculate_Range.py)
+* [Second Largest](https://github.com/ranajoy-dutta/TechGig-Data-Structure/blob/master/One%20Dimensional%20Array/Second_Largest.py) Find_the_element_that_appears_once
+* [Find The Element That Appears Once](https://github.com/ranajoy-dutta/TechGig-Data-Structure/blob/master/One%20Dimensional%20Array/Find_the_element_that_appears_once.py) 
 * Sequence of Integers
-* Find The Element That Appears Once
-* [Second Largest](https://github.com/ranajoy-dutta/TechGig-Data-Structure/blob/master/One%20Dimensional%20Array/Second_Largest.py)
 * War Between Odd and Even
-*
+
 
