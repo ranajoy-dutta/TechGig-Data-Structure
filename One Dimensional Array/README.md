@@ -12,6 +12,7 @@
 * [Second Largest](https://github.com/ranajoy-dutta/TechGig-Data-Structure/blob/master/One%20Dimensional%20Array/Second_Largest.py) Find_the_element_that_appears_once
 * [Find The Element That Appears Once](https://github.com/ranajoy-dutta/TechGig-Data-Structure/blob/master/One%20Dimensional%20Array/Find_the_element_that_appears_once.py) Check_Occurrences
 * [Check Occurences](https://github.com/ranajoy-dutta/TechGig-Data-Structure/blob/master/One%20Dimensional%20Array/Check_Occurrences.py)
+* [Second Largest Even](https://github.com/ranajoy-dutta/TechGig-Data-Structure/blob/master/One%20Dimensional%20Array/Second_Largest_Even.py)
 * Sequence of Integers
 * War Between Odd and Even
 
